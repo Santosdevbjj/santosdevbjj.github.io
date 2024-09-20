@@ -15,7 +15,7 @@
 
 - 📄 Saiba sobre minhas experiências: [https://www.linkedin.com/in/sergio-santos-3b081a326](https://www.linkedin.com/in/sergio-santos-3b081a326)
 
-- ⚡ Meu Currículo Tarde: **http://lattes.cnpq.br/5390632893326100**
+- ⚡ Meu Currículo Lattes: **http://lattes.cnpq.br/5390632893326100**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
