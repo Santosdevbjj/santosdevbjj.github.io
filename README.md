@@ -1,21 +1,21 @@
-<h1 align="center">Olá eu sou: Sergio Santos</h1>
+<h1 align="center">Olá 🤯 eu sou: Sergio Santos</h1>
 <h3 align="center">Apaixonado pela programação de computadores,análise de sistemas, e tudo o que se relaciona com tecnologia da informação. Atualmente estou apaixonado pelo Microsoft Azure. Me formei em Tecnologia em Processamento de Dados, e estudei Direito até o 7° período.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosdevbjj&label =Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosdevbjj&label =Profile%20views&color=0e75b6&style=flat" alt="santosdevbjj" /> </p>
 
 - Atualmente disponível no mercado de trabalho. **Desenvolvemos e implantamos soluções de processamento bancário utilizando Microsoft Visual Basic 6.0, proporcionando otimização de processos e redução de custos operacionais. Elaboração de documentação técnica e manuais para usuários finais, auxiliando na correta utilização dos sistemas implantados.**
 
-- 👨‍💻 Todos os meus projetos estão; [https://github.com/Santosdevbjj/santosdevbjj.github.io/blob/main/README.md](https://github.com/Santosdevbjj/santosdevbjj.github.io/blob/main/README.md)
+- 👨‍💻 Todos os meus projetos estão; [https://santosdevbjj.github.io/](https://santosdevbjj.github.io/)
 
-- 📝 Meu Blog [http://sergiossantoss.blogspot.com.br/2014/09/direitos-humanos-como-um-projeto-de.html](http://sergiossantoss.blogspot.com.br/2014/ 09/direitos-humanos-como-um-projeto-de.html)
+- 📝 Meu Blog [http://sergiossantoss.blogspot.com.br/2014/09/direitos-humanos-como -um-projeto-de.html](http://sergiossantoss.blogspot.com.br/2014/09/direitos-humanos-como-um-projeto-de.html)
 
-- 📫 Como me contatar: **sergioluiz.santos@gmail.com**
+- 📫 Como me contatar: **sergioluiz. santos@gmail.com**
 
-- 📄 Saiba sobre minhas experiências: [https://www.linkedin.com/in/sergio-santos-3b081a326](https://www.linkedin.com/in/sergio-santos-3b081a326)
+- 📄 Saiba sobre minhas experiências: [https://www.linkedin.com/in/sergio-santos-3b081a326](https://www.linkedin.com/in/sergio-santos- 3b081a326)
 
-<h3 align="left">Conecte-se comigo: </h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://instagram.com/@santossergiorealbjj" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@santossergiorealbjj" height="30" width="40" /></a>
+<a href="https://instagram.com/@santossergiorealbjj" target="blank"><img align= "centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@santossergiorealbjj" height="30 " width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
