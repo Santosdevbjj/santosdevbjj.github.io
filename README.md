@@ -1,7 +1,7 @@
-<h1 align="center">Olá 🤯 eu sou: Sergio Santos</h1>
+<h1 align="center">Olá eu sou: Sergio Santos</h1>
 <h3 align="center">Apaixonado pela programação de computadores,análise de sistemas, e tudo o que se relaciona com tecnologia da informação. Atualmente estou apaixonado pelo Microsoft Azure. Me formei em Tecnologia em Processamento de Dados, e estudei Direito até o 7° período.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosdevbjj&label =Profile%20views&color=0e75b6&style=flat" alt="santosdevbjj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosdevbjj&label =Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - Atualmente disponível no mercado de trabalho. **Desenvolvemos e implantamos soluções de processamento bancário utilizando Microsoft Visual Basic 6.0, proporcionando otimização de processos e redução de custos operacionais. Elaboração de documentação técnica e manuais para usuários finais, auxiliando na correta utilização dos sistemas implantados.**
 
